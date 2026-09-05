@@ -2,236 +2,252 @@
 
 # Lakshya Agarwal
 
-### Computer Science Student • Software Developer • Full-Stack Developer • AI/ML Enthusiast
+### Software Engineering Student · Backend & Full-Stack Systems · Applied AI
 
-**Building scalable systems, one line of code at a time.**
-
-[![GitHub](https://img.shields.io/badge/GitHub-Lakshya172-181717?style=for-the-badge\&logo=github)](https://github.com/Lakshya172)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lakshya%20Agarwal-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/lakshyaagarwal17/)
+<p>
+  <a href="https://github.com/Lakshya172">
+    <img src="https://img.shields.io/badge/GitHub-Lakshya172-181717?style=flat&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/lakshyaagarwal17">
+    <img src="https://img.shields.io/badge/LinkedIn-Lakshya%20Agarwal-0A66C2?style=flat&logo=linkedin" />
+  </a>
+  <a href="https://leetcode.com/u/Lakshya172">
+    <img src="https://img.shields.io/badge/LeetCode-450%2B%20Problems-FFA116?style=flat&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://proof-of-work-roan.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Proof%20of%20Work-111827?style=flat&logo=vercel" />
+  </a>
+</p>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I am a **B.Tech Computer Science & Engineering student at Lovely Professional University**, focused on building practical software solutions and developing strong foundations in **software engineering, full-stack development, backend systems, databases, and problem solving**.
+I am a **B.Tech Computer Science and Engineering student at Lovely Professional University**, focused on building practical software systems across backend engineering, full-stack development, data pipelines, and applied AI.
 
-I enjoy turning ideas into functional applications and exploring areas such as **Artificial Intelligence, Machine Learning, Computer Vision, scalable web applications, and scientific computing**.
+I enjoy working close to the system — designing APIs, databases, concurrency-safe services, automated pipelines, and developer tooling. I also actively practice **Data Structures & Algorithms** and build projects that emphasize correctness, scalability, and measurable engineering outcomes.
 
-Currently, I am working toward becoming a strong **Software / Full-Stack Developer** while continuously improving my understanding of **Data Structures & Algorithms, backend architecture, databases, and AI/ML**.
-
----
-
-## 🚀 Current Focus
-
-| 💻 Software Development         | 🌐 Full-Stack Development | 🤖 AI / ML           |
-| ------------------------------- | ------------------------- | -------------------- |
-| Building practical applications | Modern web applications   | Machine Learning     |
-| Backend systems                 | REST APIs                 | Computer Vision      |
-| Database systems                | Responsive interfaces     | Scientific Computing |
-| Software Engineering            | Web technologies          | Data Analysis        |
+* 🎓 B.Tech CSE — Lovely Professional University
+* 💻 Focus: **Backend Engineering · Full-Stack Development · Applied AI**
+* 🧠 450+ LeetCode problems solved
+* 🏗️ Interested in scalable systems, APIs, databases & developer tools
+* 🔬 Building data-driven and research-oriented software
+* 🚀 Always learning, shipping, and improving
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 💻 Programming Languages
+### Languages
 
-`C++` `C` `Java` `Python` `JavaScript`
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,python,java,typescript,javascript,sql,c" />
+</p>
 
-### 🌐 Web Development
+### Backend & Web
 
-`HTML` `CSS` `JavaScript` `Responsive Web Development`
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,react,nextjs" />
+</p>
 
-### ⚙️ Backend & Databases
+### Databases & Infrastructure
 
-`Node.js` `Express.js` `REST APIs` `MongoDB` `SQL`
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,docker,linux,githubactions" />
+</p>
 
-### 🤖 AI / Machine Learning
+### AI / ML & Data
 
-`Python` `PyTorch` `Machine Learning` `Computer Vision` `OpenCV` `NLP`
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,opencv" />
+</p>
 
-### 🔧 Tools & Platforms
-
-`Git` `GitHub` `VS Code` `GitHub Pages`
-
----
-
-# 📌 Featured Projects
-
-## 💎 Rinky Commerce Engine
-
-A **production-oriented e-commerce project** associated with the Rinky Jewellers platform.
-
-The project is currently maintained as a **private repository** and is represented through the live website in my portfolio.
-
-**Focus:** E-Commerce • Web Development • Production Systems
-
-🌐 **Live:** [rinkyjewellers.in](https://rinkyjewellers.in/)
-
-> Source repository is private and available on request.
+**Also working with:** scikit-learn · FAISS · pandas · NumPy · Parquet
 
 ---
 
-## 🌐 Personal Portfolio
+# Featured Projects
 
-**[Lakshya172.github.io](https://github.com/Lakshya172/Lakshya172.github.io)**
+## 🔬 AdityaNet
 
-A responsive personal portfolio designed and developed to showcase my **projects, technical skills, education, experience, and achievements**.
+**Verifiable Research Platform · Aditya-L1 Solar X-ray Archive**
+
+A data engineering and research platform built around reproducible processing of ISRO Aditya-L1 solar X-ray data.
+
+**Stack:**
+`Python` `pandas` `scikit-learn` `Parquet` `TypeScript` `Astro` `React` `GitHub Actions` `Docker`
 
 ### Highlights
 
-* Responsive personal portfolio
-* Project case studies
-* Resume and education sections
-* Learning journal
-* Custom JavaScript interactions
-* Custom animations
-* GitHub Pages deployment
-* Graceful degradation without JavaScript
-* Reduced-motion support
-
-**Tech:** `HTML` `CSS` `JavaScript` `GitHub Pages`
-
-🔗 **Live:** [lakshya172.github.io](https://lakshya172.github.io/)
+* Built a fail-loud data extraction and transformation pipeline.
+* Generated a digest-addressed SHA-256 dataset.
+* Processed thousands of Parquet artifacts across a large historical dataset.
+* Used chronological validation to avoid temporal data leakage.
+* Benchmarked learned models against threshold-based baselines.
+* Added CI validation gates to detect data integrity and metric drift.
+* Optimized the frontend for minimal client-side JavaScript.
 
 ---
 
-## 👁️ Facial Recognition Attendance System
+## 🛒 BlackStore
 
-**[GitHub Repository](https://github.com/Lakshya172/Attendence-System)**
+**Concurrency-Safe E-Commerce & Inventory Backend**
 
-A real-time attendance management application that uses **facial recognition** to identify users and record attendance.
+A full-stack e-commerce system designed around transactional correctness, scalable APIs, caching, and reliable checkout workflows.
+
+**Stack:**
+`Node.js` `Express.js` `React` `Next.js` `PostgreSQL` `PL/pgSQL` `Redis` `Docker` `Postman`
 
 ### Highlights
 
-* Face detection and recognition
-* Webcam-based real-time processing
-* KNN-based classification
-* Automated attendance recording
-* CSV-based attendance management
-* Real-time application interface
-
-**Tech:** `Python` `OpenCV` `KNN` `Streamlit` `Pickle` `CSV`
+* Designed atomic multi-item checkout workflows.
+* Implemented role-based JWT authentication.
+* Used PostgreSQL transactional row locking with `SELECT ... FOR UPDATE`.
+* Prevented inventory overselling under concurrent checkout load.
+* Added Redis multi-tier caching for product data.
+* Implemented queues, retries, circuit breakers, and idempotency.
+* Designed the backend around correctness under concurrent requests.
 
 ---
 
-## 🌌 ASTRA — Automated Stellar Transient Recognition & Analysis
+## 👁️ Attendance System
 
-A machine-learning and research platform for **classifying stellar variability using TESS light curves**.
+**Real-Time Facial Recognition Biometric Pipeline**
+
+An automated attendance and identity verification system using computer vision, facial embeddings, vector search, and a FastAPI backend.
+
+**Stack:**
+`Python` `OpenCV` `DeepFace` `MTCNN` `FAISS` `scikit-learn` `FastAPI` `PostgreSQL` `Docker` `Linux`
 
 ### Highlights
 
-* Stellar variability classification
-* Hybrid CNN + Transformer architecture
-* Raw and phase-folded light-curve processing
-* Data acquisition and preprocessing
-* Model training and evaluation
-* Calibration and uncertainty analysis
-* Dataset verification and reproducible research
-* Interactive web-based model inference
-
-**Tech:** `Python` `PyTorch` `CNN` `Transformers` `Next.js` `ONNX`
+* Built an automated face verification pipeline.
+* Used facial embeddings for identity matching.
+* Integrated FAISS vector indexing for similarity search.
+* Optimized camera-stream processing using multithreading and batching.
+* Added anti-spoofing/liveness verification.
+* Built FastAPI services for attendance processing and audit logging.
+* Designed PostgreSQL-backed persistence and asynchronous retry workflows.
 
 ---
 
-## ☀️ AdityaNet
+# 🧠 Problem Solving
 
-A research platform focused on the **Aditya-L1 solar X-ray archive** and reproducible solar flare detection and analysis.
+### LeetCode
 
-### Highlights
+**450+ problems solved**
 
-* Aditya-L1 SoLEXS and HEL1OS data
-* Solar flare detection
-* Scientific data analysis
-* Dataset validation
-* Benchmarking workflows
-* Reproducible research
-* Data integrity and verification
+* 240+ Medium
+* 60+ Hard
+* Focus areas: Data Structures, Algorithms, Dynamic Programming & Graph Algorithms
+* Curated C++ / Java solutions
 
-**Tech:** `Python` `Machine Learning` `Data Analysis` `Scientific Computing`
-
----
-
-# 🧠 Learning & Interests
-
-* Full-Stack Web Development
-* Backend Development
-* REST API Development
-* Data Structures & Algorithms
-* Database Management Systems
-* Software Engineering
-* Artificial Intelligence
-* Machine Learning
-* Computer Vision
-* Natural Language Processing
-* Scientific Computing
-* Data Analysis
-* Problem Solving
-* Building practical real-world applications
+<a href="https://leetcode.com/u/Lakshya172">
+  <img src="https://leetcard.jacoblin.cool/Lakshya172?theme=dark&font=Karma&ext=heatmap" width="70%" />
+</a>
 
 ---
 
-# 🎓 Education
-
-### Bachelor of Technology — Computer Science & Engineering
-
-**Lovely Professional University**
-
-**2024 — 2028**
-
-Currently pursuing my B.Tech with a focus on **software development, programming, databases, web technologies, AI/ML, and problem solving**.
-
----
-
-# 📜 Certifications
-
-* **Data Science & Analytics** — HP LIFE
-* **Effective Communication Skills** — Skillera
-
----
-
-# 📊 GitHub Statistics
+# 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Lakshya172&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<a href="https://github.com/Lakshya172">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lakshya172&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="170" />
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshya172&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-</div>
-
----
-
-# 📈 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lakshya172&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 🤝 Connect With Me
-
-<div align="center">
-
-### Building • Learning • Solving • Improving
+<a href="https://github.com/Lakshya172">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshya172&layout=compact&hide_border=true&langs_count=8" height="170" />
+</a>
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Lakshya172-181717?style=for-the-badge\&logo=github)](https://github.com/Lakshya172)
+<a href="https://github.com/Lakshya172">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lakshya172&hide_border=true" width="70%" />
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lakshya%20Agarwal-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/lakshyaagarwal17/)
+<br/><br/>
+
+### Contribution Graph
+
+<a href="https://github.com/Lakshya172">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lakshya172&hide_border=true&area=true" width="95%" />
+</a>
 
 </div>
 
 ---
 
+# 🏆 Engineering Highlights
+
+* Built a **containerized AI Pull Request Code Reviewer** using FastAPI and LangChain.
+* Designed systems around **transactional consistency and concurrency safety**.
+* Built reproducible data pipelines with **content-addressed artifacts and CI validation**.
+* Worked with **PostgreSQL, Redis, Docker, FastAPI, Node.js and React** across multiple projects.
+* Built computer-vision systems using **OpenCV, DeepFace, MTCNN and FAISS**.
+* Placed in the **Top-10 / finalist range at a university hackathon**.
+
+---
+
+# 📚 Core Computer Science
+
+```text
+Data Structures & Algorithms
+Operating Systems
+Database Management Systems
+Computer Networks
+Object-Oriented Programming
+System Design
+Backend Architecture
+REST APIs
+Concurrency
+Distributed Systems Fundamentals
+```
+
+---
+
+# 📈 Current Focus
+
+```text
+Backend Engineering
+        ↓
+Scalable APIs & Databases
+        ↓
+Distributed Systems & Concurrency
+        ↓
+Applied AI & Data Engineering
+        ↓
+Production-Ready Software
+```
+
+I am currently focused on becoming stronger at designing systems that are not only functional, but also **reliable, measurable, maintainable, and scalable**.
+
+---
+
+# 🤝 Let's Connect
+
 <div align="center">
 
-### 🚀 Building scalable systems, one line of code at a time.
+<a href="https://github.com/Lakshya172">
+  <img src="https://img.shields.io/badge/GitHub-Lakshya172-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://www.linkedin.com/in/lakshyaagarwal17">
+  <img src="https://img.shields.io/badge/LinkedIn-Lakshya%20Agarwal-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="https://leetcode.com/u/Lakshya172">
+  <img src="https://img.shields.io/badge/LeetCode-450%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+
+<a href="https://proof-of-work-roan.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-Proof%20of%20Work-111827?style=for-the-badge&logo=vercel" />
+</a>
+
+<br/><br/>
+
+**Building systems. Solving problems. Learning continuously.**
 
 </div>
