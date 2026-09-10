@@ -31,14 +31,14 @@ My interests span **full-stack development, backend engineering, databases, prob
 
 ## 🎯 Current Focus
 
-| Area                      | Focus                                           |
-| ------------------------- | ----------------------------------------------- |
-| 💻 Full-Stack Development | Building complete web applications              |
-| ⚙️ Backend Development    | REST APIs, authentication & server-side systems |
-| 🧠 Problem Solving        | Data Structures & Algorithms                    |
-| 🗄️ Databases             | MongoDB, SQL & database design                  |
-| 🤖 Applied AI/ML          | Practical machine learning applications         |
-| 🔬 Research               | Data-driven and reproducible systems            |
+| Area | Focus |
+| ------------------------- | ------------------------------------------------- |
+| 💻 Full-Stack Development | Building complete web applications |
+| ⚙️ Backend Development | REST APIs, authentication & server-side systems |
+| 🧠 Problem Solving | Data Structures & Algorithms |
+| 🗄️ Databases | MongoDB, SQL & database design |
+| 🤖 Applied AI/ML | Practical machine learning applications |
+| 🔬 Research | Data-driven and reproducible systems |
 
 ---
 
@@ -90,7 +90,7 @@ A data engineering and research platform built around reproducible processing an
 * Added CI validation gates for data integrity and metric drift.
 * Optimized the frontend for minimal client-side JavaScript.
 
-🔗 [GitHub Repository](https://github.com/Rexy-5097/AdityaNet)
+🔗 [GitHub Repository](https://github.com/Lakshya172/AdityaNet)
 
 ---
 
@@ -117,6 +117,7 @@ A production full-stack e-commerce platform built for **Rinky Jewellers, Kanpur*
 * Production deployment with Render
 
 🌐 [Live Application](https://www.rinkyjewellers.in/)
+
 🔗 [GitHub Repository](https://github.com/Lakshya172/rinky-commerce-engine)
 
 ---
@@ -139,6 +140,7 @@ A responsive personal portfolio website showcasing my projects, skills, experien
 * Deployed using GitHub Pages
 
 🌐 [Live Portfolio](https://lakshya172.github.io/)
+
 🔗 [GitHub Repository](https://github.com/Lakshya172/Lakshya172.github.io)
 
 ---
@@ -182,7 +184,7 @@ An end-to-end machine learning and research platform for analyzing stellar varia
 * Confidence and uncertainty analysis
 * Web-based inference platform
 
-🔗 [Project Repository](https://github.com/Rexy-5097/ASTRA)
+🔗 [Project Repository](https://github.com/Lakshya172/ASTRA)
 
 ---
 
@@ -203,7 +205,9 @@ An end-to-end machine learning and research platform for analyzing stellar varia
 # 🎓 Education
 
 **B.Tech — Computer Science & Engineering**
+
 Lovely Professional University
+
 **2024 – 2028**
 
 ---
@@ -219,9 +223,29 @@ Lovely Professional University
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Lakshya172&show_icons=true&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Lakshya172&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&rank_icon=github" height="165" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshya172&layout=compact&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshya172&layout=compact&theme=transparent&hide_border=true&langs_count=8" height="165" />
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Lakshya172&theme=transparent&hide_border=true" />
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lakshya172&theme=github-compact&hide_border=true&area=true" width="95%" />
 
 </div>
 
