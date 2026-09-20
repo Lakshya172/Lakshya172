@@ -6,7 +6,7 @@
 
 **B.Tech Computer Science & Engineering @ Lovely Professional University**
 
-Building practical software, scalable backend systems, and intelligent applications.
+Building practical software, scalable backend systems, and intelligent applications
 
 <p>
   <a href="https://github.com/Lakshya172">
