@@ -1,12 +1,12 @@
 <div align="center">
 
-# Lakshya Agarwal
+#  Lakshya Agarwal
 
 ### Computer Science Student • Software Developer • Full-Stack Developer • AI/ML Enthusiast
 
 **B.Tech Computer Science & Engineering @ Lovely Professional University**
 
-Building practical software, scalable backend systems, and intelligent applications
+Building practical software, scalable backend systems, and intelligent applications.
 
 <p>
   <a href="https://github.com/Lakshya172">
@@ -32,7 +32,7 @@ My interests span **full-stack development, backend engineering, databases, prob
 ## 🎯 Current Focus
 
 | Area | Focus |
-| ------------------------- | ------------------------------------------------- |
+|---|---|
 | 💻 Full-Stack Development | Building complete web applications |
 | ⚙️ Backend Development | REST APIs, authentication & server-side systems |
 | 🧠 Problem Solving | Data Structures & Algorithms |
@@ -82,15 +82,15 @@ A data engineering and research platform built around reproducible processing an
 
 ### Highlights
 
-* Built a fail-loud data extraction and transformation pipeline.
-* Generated a digest-addressed SHA-256 dataset for data integrity.
-* Processed thousands of Parquet artifacts across a large historical dataset.
-* Used chronological validation to prevent temporal data leakage.
-* Benchmarked learned models against threshold-based baselines.
-* Added CI validation gates for data integrity and metric drift.
-* Optimized the frontend for minimal client-side JavaScript.
+- Built a fail-loud data extraction and transformation pipeline.
+- Generated a digest-addressed SHA-256 dataset for data integrity.
+- Processed thousands of Parquet artifacts across a large historical dataset.
+- Used chronological validation to prevent temporal data leakage.
+- Benchmarked learned models against threshold-based baselines.
+- Added CI validation gates for data integrity and metric drift.
+- Optimized the frontend for minimal client-side JavaScript.
 
-🔗 [GitHub Repository](https://github.com/Lakshya172/AdityaNet)
+🔗 **[GitHub Repository](https://github.com/Lakshya172/AdityaNet)**
 
 ---
 
@@ -104,21 +104,21 @@ A production full-stack e-commerce platform built for **Rinky Jewellers, Kanpur*
 
 ### Highlights
 
-* Full-stack commerce application
-* RESTful backend with Node.js & Express
-* MongoDB Atlas database
-* User authentication & role-based authorization
-* Product catalogue and management
-* Customer wishlist functionality
-* Admin management system
-* Transactional email workflows
-* Security middleware and rate limiting
-* Responsive Vanilla JavaScript frontend
-* Production deployment with Render
+- Full-stack commerce application
+- RESTful backend with Node.js & Express
+- MongoDB Atlas database
+- User authentication & role-based authorization
+- Product catalogue and management
+- Customer wishlist functionality
+- Admin management system
+- Transactional email workflows
+- Security middleware and rate limiting
+- Responsive Vanilla JavaScript frontend
+- Production deployment with Render
 
-🌐 [Live Application](https://www.rinkyjewellers.in/)
+🌐 **[Live Application](https://www.rinkyjewellers.in/)**
 
-🔗 [GitHub Repository](https://github.com/Lakshya172/rinky-commerce-engine)
+🔗 **[GitHub Repository](https://github.com/Lakshya172/rinky-commerce-engine)**
 
 ---
 
@@ -132,16 +132,16 @@ A responsive personal portfolio website showcasing my projects, skills, experien
 
 ### Highlights
 
-* Multi-page portfolio website
-* Custom JavaScript animations
-* Responsive design
-* Lightweight framework-free architecture
-* No build step or external dependencies
-* Deployed using GitHub Pages
+- Multi-page portfolio website
+- Custom JavaScript animations
+- Responsive design
+- Lightweight framework-free architecture
+- No build step or external dependencies
+- Deployed using GitHub Pages
 
-🌐 [Live Portfolio](https://lakshya172.github.io/)
+🌐 **[Live Portfolio](https://lakshya172.github.io/)**
 
-🔗 [GitHub Repository](https://github.com/Lakshya172/Lakshya172.github.io)
+🔗 **[GitHub Repository](https://github.com/Lakshya172/Lakshya172.github.io)**
 
 ---
 
@@ -155,14 +155,14 @@ A computer vision application that detects and recognizes faces through a webcam
 
 ### Highlights
 
-* Real-time face detection and recognition
-* KNN-based face classification
-* Webcam integration
-* Automated attendance recording
-* CSV-based attendance storage
-* Streamlit-based interactive interface
+- Real-time face detection and recognition
+- KNN-based face classification
+- Webcam integration
+- Automated attendance recording
+- CSV-based attendance storage
+- Streamlit-based interactive interface
 
-🔗 [GitHub Repository](https://github.com/Lakshya172/Attendence-System)
+🔗 **[GitHub Repository](https://github.com/Lakshya172/Attendence-System)**
 
 ---
 
@@ -176,37 +176,37 @@ An end-to-end machine learning and research platform for analyzing stellar varia
 
 ### Highlights
 
-* Stellar variability classification
-* Hybrid CNN + Transformer architecture
-* TESS light-curve data processing
-* Model training and evaluation
-* Dataset verification
-* Confidence and uncertainty analysis
-* Web-based inference platform
+- Stellar variability classification
+- Hybrid CNN + Transformer architecture
+- TESS light-curve data processing
+- Model training and evaluation
+- Dataset verification
+- Confidence and uncertainty analysis
+- Web-based inference platform
 
-🔗 [Project Repository](https://github.com/Lakshya172/ASTRA)
+🔗 **[Project Repository](https://github.com/Lakshya172/ASTRA)**
 
 ---
 
 # 📚 Currently Learning
 
-* Full-Stack Web Development
-* Backend Engineering & REST APIs
-* Data Structures & Algorithms
-* Database Systems
-* Software Engineering
-* Machine Learning & AI
-* Natural Language Processing
-* System Design
-* Building practical production applications
+- Full-Stack Web Development
+- Backend Engineering & REST APIs
+- Data Structures & Algorithms
+- Database Systems
+- Software Engineering
+- Machine Learning & AI
+- Natural Language Processing
+- System Design
+- Building practical production applications
 
 ---
 
 # 🎓 Education
 
-**B.Tech — Computer Science & Engineering**
+### B.Tech — Computer Science & Engineering
 
-Lovely Professional University
+**Lovely Professional University**
 
 **2024 – 2028**
 
@@ -214,8 +214,8 @@ Lovely Professional University
 
 # 📜 Certifications
 
-* **Data Science & Analytics** — HP LIFE
-* **Effective Communication Skills** — Skillera
+- **Data Science & Analytics** — HP LIFE
+- **Effective Communication Skills** — Skillera
 
 ---
 
@@ -223,9 +223,17 @@ Lovely Professional University
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Lakshya172&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&rank_icon=github" height="165" />
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Lakshya172&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"
+  height="180"
+  alt="Lakshya's GitHub Stats"
+/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshya172&layout=compact&theme=transparent&hide_border=true&langs_count=8" height="165" />
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshya172&layout=compact&theme=dark&hide_border=true&langs_count=8"
+  height="180"
+  alt="Lakshya's Top Languages"
+/>
 
 </div>
 
@@ -235,7 +243,11 @@ Lovely Professional University
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Lakshya172&theme=transparent&hide_border=true" />
+<img
+  src="https://streak-stats.demolab.com/?user=Lakshya172&theme=dark&hide_border=true"
+  height="180"
+  alt="Lakshya's GitHub Streak"
+/>
 
 </div>
 
@@ -245,7 +257,11 @@ Lovely Professional University
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lakshya172&theme=github-compact&hide_border=true&area=true" width="95%" />
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Lakshya172&theme=github-compact&hide_border=true&area=true"
+  width="95%"
+  alt="Lakshya's GitHub Contribution Graph"
+/>
 
 </div>
 
@@ -269,6 +285,6 @@ Lovely Professional University
 
 <div align="center">
 
-### Building scalable systems, one line of code at a time.
+### 🚀 Building scalable systems, one line of code at a time.
 
 </div>
