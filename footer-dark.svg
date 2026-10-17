@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" aria-label="Lakshya Agarwal footer">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#0b1020"/>
+    <stop offset="100%" stop-color="#171d35"/>
+  </linearGradient>
+  <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#8b9cff" stop-opacity="0.15"/>
+    <stop offset="50%" stop-color="#8b9cff" stop-opacity="0.95"/>
+    <stop offset="100%" stop-color="#36cfc9" stop-opacity="0.45"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="150" rx="18" fill="url(#bg)"/>
+
+<rect width="1200" height="150" fill="#0b1020"/>
+<path d="M0 28 C250 5 400 58 620 28 S980 5 1200 28" stroke="url(#line)" stroke-width="2" fill="none"/>
+<text x="600" y="80" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="24" font-weight="750" fill="#f4f6ff">Lakshya Agarwal</text>
+<text x="600" y="111" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" fill="#aab5d0">Building useful software, one iteration at a time.</text>
+
+</svg>

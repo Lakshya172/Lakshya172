@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="180" viewBox="0 0 1200 180" role="img" aria-label="PRATIBIMB">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#f7f8fc"/>
+    <stop offset="100%" stop-color="#e9edff"/>
+  </linearGradient>
+  <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#4f46e5" stop-opacity="0.15"/>
+    <stop offset="50%" stop-color="#4f46e5" stop-opacity="0.95"/>
+    <stop offset="100%" stop-color="#36cfc9" stop-opacity="0.45"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="180" rx="18" fill="url(#bg)"/>
+
+<rect width="1200" height="180" fill="#f7f8fc"/>
+<text x="38" y="45" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" letter-spacing="3" fill="#4f46e5">PROJECT / PRATIBHIM</text>
+<text x="38" y="82" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="26" font-weight="750" fill="#111827">PRATIBIMB</text>
+<text x="38" y="111" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" fill="#5b6478">Privacy-aware browser automation · Safety boundaries</text>
+<path d="M70 145 H1110" stroke="#4f46e5" stroke-opacity=".35" stroke-width="2"/>
+<rect x="72" y="128" width="94" height="34" rx="8" fill="#e7eaff" stroke="#4f46e5" stroke-opacity=".75"/>
+<text x="119" y="150" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10" font-weight="700" fill="#111827">INTENT</text>
+<rect x="190" y="128" width="94" height="34" rx="8" fill="#e7eaff" stroke="#4f46e5" stroke-opacity=".75"/>
+<text x="237" y="150" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10" font-weight="700" fill="#111827">VERIFY</text>
+<rect x="308" y="128" width="94" height="34" rx="8" fill="#e7eaff" stroke="#4f46e5" stroke-opacity=".75"/>
+<text x="355" y="150" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10" font-weight="700" fill="#111827">REDACT</text>
+<rect x="426" y="128" width="94" height="34" rx="8" fill="#e7eaff" stroke="#4f46e5" stroke-opacity=".75"/>
+<text x="473" y="150" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10" font-weight="700" fill="#111827">ALLOW</text><path d="M166 145 H190" stroke="#36cfc9" stroke-width="2"/><path d="M284 145 H308" stroke="#36cfc9" stroke-width="2"/><path d="M402 145 H426" stroke="#36cfc9" stroke-width="2"/>
+</svg>
