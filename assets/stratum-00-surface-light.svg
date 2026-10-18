@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="190" viewBox="0 0 1200 190" role="img" aria-label="SURFACE">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#f7f8fc"/>
+    <stop offset="100%" stop-color="#e9edff"/>
+  </linearGradient>
+  <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#4f46e5" stop-opacity="0.15"/>
+    <stop offset="50%" stop-color="#4f46e5" stop-opacity="0.95"/>
+    <stop offset="100%" stop-color="#36cfc9" stop-opacity="0.45"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="190" rx="18" fill="url(#bg)"/>
+
+<rect width="1200" height="190" fill="#f7f8fc"/>
+<path d="M0 32 C220 14, 360 52, 580 32 S920 16, 1200 35" stroke="#4f46e5" stroke-opacity="0.09" fill="none" stroke-width="1.5"/><path d="M0 58 C220 40, 360 78, 580 58 S920 42, 1200 61" stroke="#4f46e5" stroke-opacity="0.11" fill="none" stroke-width="1.5"/><path d="M0 84 C220 66, 360 104, 580 84 S920 68, 1200 87" stroke="#4f46e5" stroke-opacity="0.14" fill="none" stroke-width="1.5"/><path d="M0 110 C220 92, 360 130, 580 110 S920 94, 1200 113" stroke="#4f46e5" stroke-opacity="0.17" fill="none" stroke-width="1.5"/><path d="M0 136 C220 118, 360 156, 580 136 S920 120, 1200 139" stroke="#4f46e5" stroke-opacity="0.19" fill="none" stroke-width="1.5"/><path d="M0 162 C220 144, 360 182, 580 162 S920 146, 1200 165" stroke="#4f46e5" stroke-opacity="0.21" fill="none" stroke-width="1.5"/>
+<text x="44" y="78" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" letter-spacing="3" fill="#4f46e5">STRATUM 00</text>
+<text x="44" y="120" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="31" font-weight="750" fill="#111827">SURFACE</text>
+<text x="44" y="151" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" fill="#5b6478">The experience people see</text>
+<path d="M790 95 H1125" stroke="url(#line)" stroke-width="2"/>
+<circle cx="790" cy="95" r="5" fill="#4f46e5"/><circle cx="1125" cy="95" r="5" fill="#36cfc9"/>
+
+</svg>

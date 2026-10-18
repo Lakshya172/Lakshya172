@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-label="Lakshya Agarwal">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#0b1020"/>
+    <stop offset="100%" stop-color="#171d35"/>
+  </linearGradient>
+  <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#8b9cff" stop-opacity="0.15"/>
+    <stop offset="50%" stop-color="#8b9cff" stop-opacity="0.95"/>
+    <stop offset="100%" stop-color="#36cfc9" stop-opacity="0.45"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="220" rx="18" fill="url(#bg)"/>
+
+<path d="M760 0 L1200 0 L1200 220 L900 220 Z" fill="#8b9cff" opacity=".07"/>
+<path d="M820 0 L1200 0 L1200 220 L1030 220 Z" fill="#36cfc9" opacity=".06"/>
+<g fill="none" stroke="#8b9cff" stroke-opacity=".35">
+ <path d="M790 28 H1160 V72 H910 V116 H1140 V160 H850"/>
+ <circle cx="790" cy="28" r="5" fill="#36cfc9" stroke="none"/>
+ <circle cx="1160" cy="72" r="5" fill="#8b9cff" stroke="none"/>
+ <circle cx="910" cy="116" r="5" fill="#36cfc9" stroke="none"/>
+ <circle cx="1140" cy="160" r="5" fill="#8b9cff" stroke="none"/>
+</g>
+<text x="64" y="96" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="62" font-weight="750" fill="#f4f6ff">Lakshya Agarwal</text>
+<text x="68" y="139" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" letter-spacing="4" fill="#8b9cff">COMPUTER SCIENCE &amp; ENGINEERING</text>
+<text x="68" y="177" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" fill="#aab5d0">Backend systems · Full-stack products · Applied AI</text>
+</svg>
